@@ -1,3 +1,9 @@
+# Mobile Vision
+
+This is a fork of the official [mobile-vision](https://github.com/facebookresearch/mobile-vision) repository. I revised the code to make it more suitable for integrating with other projects in a pipeline.
+
+------
+
 # Mobile Computer Vision @ Facebook
 
 This repository provides code and models for the following projects developed by Facebook for mobile:
